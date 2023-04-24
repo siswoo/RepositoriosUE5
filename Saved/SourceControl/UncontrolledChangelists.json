@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/SaveGame/BP_SaveGame.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/SaveGame/BP_GameModeBae.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/SaveGame/BP_GameModeBase.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/SaveGame/BP_GameMode.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/WB_SaveLoadRestartMenu.uasset",
+				"C:/Users/juan.m/Documents/Unreal Projects/Repositorios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
